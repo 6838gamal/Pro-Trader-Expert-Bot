@@ -5,5 +5,5 @@ gTTS
 pandas
 ta
 aiohttp
-binance
+python-binance
 cryptography
